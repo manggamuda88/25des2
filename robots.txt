@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: http://wpdeeply.com/superjp/sitemap.xml
+Sitemap: http://wpdeeply.com/gilajp/sitemap.xml
+Sitemap: http://wpdeeply.com/gojekpot/sitemap.xml
+Sitemap: http://wpdeeply.com/winstrike69/sitemap.xml
+Sitemap: http://wpdeeply.com/slotgacor/sitemap.xml
+Sitemap: http://wpdeeply.com/slotzeus/sitemap.xml
+Sitemap: http://wpdeeply.com/kaptenjackpot/sitemap.xml
+Sitemap: http://wpdeeply.com/boosterjp/sitemap.xml
+Sitemap: http://wpdeeply.com/kerajaanslot/sitemap.xml
+Sitemap: http://wpdeeply.com/pakong86/sitemap.xml
+Sitemap: http://wpdeeply.com/viral88/sitemap.xml
+Sitemap: http://wpdeeply.com/clan4d/sitemap.xml
+Sitemap: http://wpdeeply.com/dinamit4d/sitemap.xml
+Sitemap: http://wpdeeply.com/elang212/sitemap.xml
+Sitemap: http://wpdeeply.com/gori77/sitemap.xml
+Sitemap: http://wpdeeply.com/viral4d/sitemap.xml
+Sitemap: http://wpdeeply.com/playground88/sitemap.xml
